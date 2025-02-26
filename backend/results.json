@@ -1,0 +1,72 @@
+[
+    {
+        "content": "QFX10008 (tương ứng các vị trí router, switch trong hệ thống mạng của FPL) (Tính năng không thể thay thế, đối với các trangreceiver 25G, 40G, 100G, cần sử dụng loại chính hãng để đảm bảo tính ổn định và được hỗ trợ từ vendor trong trường hợp có lỗi)\n\nIV Thiết bị Layer 3\nKhả năng chuyển mạch => 4800 Gbps | x |\nHỗ trợ nguồn DC/AC | x |\nHỗ trợ MTU lên đến >9000 | x |\nSố lượng cổng kết nối 25/40G/100G = 4 | x\n\nHĐL: Mô hình Network cung cấp dịch vụ FPT PLAY\nLần ban hành/sửa đổi: 1/0\nSố lượng cổng kết nối 10G >= 48 port\nHỗ trợ tính năng tự động lưu bản sao cấu hình sau mỗi thay đổi (Tính năng quan trọng hỗ trợ vận hành,",
+        "score": 19.954227447509766,
+        "rank": 1,
+        "document_id": "HLD mô hình network FPT Play",
+        "passage_id": 1127
+    },
+    {
+        "content": "QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008,",
+        "score": 17.520105361938477,
+        "rank": 2,
+        "document_id": "HDCV Xử lý thiết bị MX cảnh báo CPU cao",
+        "passage_id": 4361
+    },
+    {
+        "content": "QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008,",
+        "score": 17.520105361938477,
+        "rank": 3,
+        "document_id": "HDCV Xử lý thiết bị MX cảnh báo CPU cao",
+        "passage_id": 4360
+    },
+    {
+        "content": "QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008,",
+        "score": 17.520105361938477,
+        "rank": 4,
+        "document_id": "HDCV Xử lý thiết bị MX cảnh báo CPU cao",
+        "passage_id": 4359
+    },
+    {
+        "content": "QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX100008, QFX\n\nBức ảnh là một phần của hướng dẫn xử lý lỗi IPv6.",
+        "score": 17.520105361938477,
+        "rank": 5,
+        "document_id": "HDCV Xử lý thiết bị MX cảnh báo CPU cao",
+        "passage_id": 4362
+    },
+    {
+        "content": "1.3. PTX10001-36MR\nLần ban hành/sửa đổi: 1/0\n\n| STT | Thông số PTX10001-36MR | Mô tả PTX10001-36MR |\n|---|---|---|\n| 1 | Kích thước (W x H x D) | 44 cm x 4.45 cm x 64.8 cm (1U) |\n| 2 | Performance | - System throughput 9.6 Tbps - Forwarding capacity Up to 6 Bbps |\n| 3 | Trọng lượng | Full load: 39.7 lbs (18.0 kg) |\n| 4 | Số khe cắm card | Fixed cord slot, không cắm được card |\n| 5 | Nguồn | 使用 2 nguồn AC hoặc DC, được thiết kế theo dạng module hỗ trợ hot-remove và hot-insertable cho phép thay thế nguồn hoặc Fan lỗi mà không cần off thiết bị,",
+        "score": 17.433155059814453,
+        "rank": 6,
+        "document_id": "HLD Mô hình GW PE Quốc tế",
+        "passage_id": 1211
+    },
+    {
+        "content": "ACX7100,)\n- Các dòng thiết bị Juniper QFX series (QFX5100, QFX5110, QFX5120, QFX5200, QFX5210, QFX10002, QFX100008, QFX100002-36Q,)\n\n1.4 CÁC TỪ VIẾT TẮT\nSTT | Viết tắt | Nội dung | Ý nghĩa\n---|---|---|---\n1 | RE | Routing Engine | Sự cố\n2 | SC | Sơ có | Phòng Điều hành mạng IP - NOC\n3 | NOC-NET | Phòng Điều hành mạng IP - NOC\n\nHDCV: Phát hiện và kiểm tra cảnh báo lỗi card RE trên thiết bị Juniper\n\nLần ban hành/sửa đổi: 1/4\n\n2.",
+        "score": 17.00696563720703,
+        "rank": 7,
+        "document_id": "HDCV Phát hiện và kiểm tra cảnh báo lỗi card RE trên thiết bị Juniper",
+        "passage_id": 2941
+    },
+    {
+        "content": "MX960, PTX10001-36MR |\n| Thiết bị mạng | PE | MX240, MX204 |\n| Thiết bị mạng | AggSW | QFX5100-48/96S, QFX5120-48Y, QFX5200-32C, QFX5210-64C |\n| Thiết bị mạng | OOB | Cisco1921, Cisco2811 |\n\nHĐL: Hạ tầng GW - PE quốc tế\n1.1.1.1 MX960\nLần ban hành/sửa đổi: 1/0\n\n| STT | Thông số MX960 | Mô tả MX960 |\n|---|---|---|\n| 1 | Kích thước (W x H x D) | Unit rack <=> 44.11 x 70.49 x 71.1 cm |\n| 2 | Performance | System throughput up to 10.56 Tbps |\n| 3 | Trọng lượng | Full load: 151.6 Kg | Off load: 68.",
+        "score": 16.410911560058594,
+        "rank": 8,
+        "document_id": "HLD Mô hình GW PE Quốc tế",
+        "passage_id": 1205
+    },
+    {
+        "content": "Các dòng thiết bị Juniper PXT: PXT10000 series. Các dòng thiết bị Cisco: Cisco 8200 series. |\n\n5.4.2-HD/MVT/HDCV/FTEL",
+        "score": 15.922218322753906,
+        "rank": 9,
+        "document_id": "HDCV Phát hiện và kiểm tra cảnh báo Interface trên thiết bị Core",
+        "passage_id": 1657
+    },
+    {
+        "content": "TOGM001041WDCIS\nNEW 100G#1TG-CY/O/46.12\nREMOVED\n\n3. HCM00207WDCIS\n(122.87.97) - 122.87.97.37 | 122.87.97.37 | 122.87.97.37 | 122.87.97.37 | 122.87.97.37 | 122.87.97.37 | 122.87.97.37 | 122.87.97.37 | 122.87.97.37 | 122.87.97.37 | 122.87.97.37 | 122.87.97.37 | 122.87.97.37 | 122.87.97.37 | 122.87.97.37 | 122.87.97.37 | 122.87.97.37 | 122.87.97.37 | 122.87.97.37 | 122.87.97.37 | 122.87.97.37 | 122.87.97.37 | 122.87.97.37 | 122.",
+        "score": 15.261954307556152,
+        "rank": 10,
+        "document_id": "HDCV Update Route Day 0 cho kênh truyền trên dòng thiết bị Cisco NCS2K",
+        "passage_id": 2741
+    }
+]

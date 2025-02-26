@@ -1,0 +1,9 @@
+ragatouille
+python-docx
+gdown
+reportlab
+pdf2image
+fastapi
+uvicorn
+streamlit
+requests
